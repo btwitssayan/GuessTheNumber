@@ -28,7 +28,7 @@ To run this game locally on your machine, follow these steps:
 
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/number-guessing-game.git
+    git clone https://github.com/btwitssayan/GuessTheNumber.git
     ```
 2. Navigate to the project directory:
     ```bash
