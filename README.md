@@ -64,7 +64,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Here's a quick preview of the game interface:
 
-![Game Screenshot](![image](https://github.com/user-attachments/assets/675c842c-3c76-4883-a70c-e3dfecdb8b7b))
+![image](https://github.com/user-attachments/assets/675c842c-3c76-4883-a70c-e3dfecdb8b7b)
 
 ---
 
